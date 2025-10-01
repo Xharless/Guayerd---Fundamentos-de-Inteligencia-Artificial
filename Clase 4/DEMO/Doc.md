@@ -8,7 +8,7 @@
 * Un programa que consulte las ventas de cada producto, detectando cuales son los que tienen menor stock y genere alertas sobre productos bajo de stock o productos en alta rotación que necesiten reposición urgente.
 
 # Diagrama de flujo
-![alt text](<Sin título.jpg>)
+![alt text](<Diagrama de flujo.jpg>)
 
 # Dataset de referencia 
 
