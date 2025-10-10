@@ -61,3 +61,17 @@ El objetivo del chatbot es identificar lo que se denomina entidades e intencione
 * **Intención:** Es un propósito: la razon por la cual un usuario contacta con le chatbot
 * **Entodad:** Es un sustantivo: una persona, un lugar o un objeto. 
 * **Dialogo:** Es un diagrama de flujo, una estructura de arbol IF/THEN que ilustra como respondra una maquina a las intenciones del usuario. Un dialogo es lo que responde la maquina despues de que un humano haga una pregunta. El dialogo representa cada una de las posibles palabras o frases que pyede introducir un usuario, la respuesta adecuada para el chatbot y las muchas posibles respuestas posteriores que puede dar el usuario y el software de chatbot condensa cada momento de la conversacion en un **nodo**. Un nodo contiene una declaracion del chatbot y una larga lista ampliable de posibles respuesta
+
+# Módulo 4: La IA clasifica las imágenes
+## Redes neuronales convolucionales
+Un sistema de IA utiliza una red neuronal convolucional (CNN) para analizar imágenes. el proceso de **red neuronal convolucional (CNN)**, permite a los sistemas de reconocimiento visual identificar objetos en una imagen, como en el reconocimiento facial.
+
+En una **CNN**, dos pequeños grupos de píxeles que se solapan entre si se comparan matematicamente para obtener un valor. La IA puede utilizar miles de estos pequeñas comparaciones para identificar partes individuales de una imagen y luego compararlas con imagenes de su corpus 
+
+## Redes generativas adversariales
+Un sistema de reconocimiento visual puede utilizar una red generativa adverrsarial (GAN) para crear nuevos dibujos y fotos. Una forma de hacerlo es enfrentando dos redes neuronales convolucionales (CNN) en un "concurso" denominado **red generativa adversatial o GAN**. En efecto, las CNN luchan entre si hasta que una de ellas se convierte en una buena artista 
+
+Una batalla de GAN termina con una imagen lista para ser mostrada a un humano. A veces, el humano puede reírse y pensar que la imagen resultante es ridícula. Pero otras veces, el humano, como la CNN que actúa de juez y maestro, no será capaz de notar la diferencia. Aquí es cuando la gran farsa es un éxito.
+
+## Aplicaciones de la visión artificial
+La vision artificial tiene muchas aplicaciones prácticas, esta es solo una aplicacion de la vision artificial que, trabajando entre bastidores, puede salvar vidas
