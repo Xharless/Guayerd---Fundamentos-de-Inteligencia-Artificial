@@ -19,7 +19,7 @@ print("\nGenerando Visualización 1: Ingresos por Categoría...")
 ingresos_categoria = df.groupby('categoria')['ingreso_total'].sum().sort_values(ascending=False)
 
 plt.figure(figsize=(12, 7))
-sns.barplot(x=ingresos_categoria.values, y=ingresos_categoria.index, palette='viridis')
+sns.barplot(x=ingresos_categoria.values, y=ingresos_categoria.index, palette='viridis_r')
 plt.title('Ingresos Totales por Categoría de Producto', fontsize=16)
 plt.xlabel('Ingresos Totales ($)', fontsize=12)
 plt.ylabel('Categoría', fontsize=12)
