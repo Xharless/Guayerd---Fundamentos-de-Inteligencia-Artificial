@@ -1,4 +1,7 @@
 
+# El grafico de los clientes, ver las caracteristicas de los clientes 
+# El grafico de los ingresos por categoria, ver por ejemplo si es almacen, cuales son los productos dentro de almacen que mas ingresos generan
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
