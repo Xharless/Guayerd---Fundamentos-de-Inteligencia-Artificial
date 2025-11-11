@@ -60,10 +60,58 @@ Mostrar lista de alertas
 """
 }
 
+def mostrar_diagrama_texto():
+    diagrama = r'''
+              ┌──────────────┐
+              │    Inicio    │
+              └──────────────┘
+                     │
+                     ▼
+              ┌────────────────┐
+              │ Cargar Dataset │
+              └────────────────┘
+                     │
+                     ▼
+                     │
+                     ▼
+   ┌────────────────────────────────────────┐
+   │ Calcular ventas por producto (rotación)│
+   └────────────────────────────────────────┘
+                     │
+                     ▼
+              ◇ ¿Stock < mínimo? ◇
+               │               │
+           [TRUE]           [FALSE]
+             │                 │
+             ▼                 ▼
+ ┌─────────────────────┐       ◇ ¿Stock >> mínimo? ◇
+ │ Generar alerta:     │        │              │
+ │ "Quiebre de Stock"  │    [TRUE]          [FALSE]
+ └─────────────────────┘        │              │
+                                ▼              ▼
+                    ┌──────────────────────────────┐
+                    │ Generar alerta:              │
+                    │ "Exceso de inventario"       │
+                    └──────────────────────────────┘
+                                           │
+                                           ▼
+                        ┌────────────────────────────┐
+                        │ Mostrar resultados         │
+                        │ obtenidos                  │
+                        └────────────────────────────┘
+                                           │
+                                           ▼
+                                 ┌─────────────────┐
+                                 │ Fin del programa│
+                                 └─────────────────┘
+'''
+    print(diagrama)
 def mostrar_menu():
     print("\n--- Menú de Documentación ---")
     for i, key in enumerate(documentacion.keys(), 1):
         print(f"{i}. {key}")
+    # opción extra para mostrar diagrama en texto
+    print(f"{len(documentacion) + 1}. Ver diagrama de flujo (texto)")
     print("0. Salir")
 
 def mostrar_seccion(opcion):
@@ -71,6 +119,8 @@ def mostrar_seccion(opcion):
     if 1 <= opcion <= len(keys):
         print(f"\n--- {keys[opcion-1]} ---")
         print(documentacion[keys[opcion-1]])
+    elif opcion == len(keys) + 1:
+        mostrar_diagrama_texto()
     else:
         print("Opción no válida.")
 
