@@ -8,7 +8,50 @@
 * Un programa que consulte las ventas de cada producto, detectando cuales son los que tienen menor stock y genere alertas sobre productos bajo de stock o productos en alta rotación que necesiten reposición urgente.
 
 # Diagrama de flujo
-![alt text](<Diagrama de flujo.jpg>)
+```text
+              ┌──────────────┐
+              │    Inicio    │
+              └──────────────┘
+                     │
+                     ▼
+              ┌────────────────┐
+              │ Cargar Dataset │
+              └────────────────┘
+                     │
+                     ▼
+                     │
+                     ▼
+   ┌────────────────────────────────────────┐
+   │ Calcular ventas por producto (rotación)│
+   └────────────────────────────────────────┘
+                     │
+                     ▼
+              ◇ ¿Stock < mínimo? ◇
+               │               │
+           [TRUE]           [FALSE]
+             │                 │
+             ▼                 ▼
+ ┌─────────────────────┐       ◇ ¿Stock >> mínimo? ◇
+ │ Generar alerta:     │        │              │
+ │ "Quiebre de Stock"  │    [TRUE]          [FALSE]
+ └─────────────────────┘        │              │
+                                ▼              ▼
+                    ┌──────────────────────────────┐
+                    │ Generar alerta:              │
+                    │ "Exceso de inventario"       │
+                    └──────────────────────────────┘
+                                           │
+                                           ▼
+                        ┌────────────────────────────┐
+                        │ Mostrar resultados         │
+                        │ obtenidos                  │
+                        └────────────────────────────┘
+                                           │
+                                           ▼
+                                 ┌─────────────────┐
+                                 │ Fin del programa│
+                                 └─────────────────┘
+```
 
 # Dataset de referencia 
  

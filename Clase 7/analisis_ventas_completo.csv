@@ -1,0 +1,369 @@
+id_venta,fecha,id_cliente,nombre_cliente,ciudad,id_producto,nombre_producto,categoria,cantidad,precio_unitario,ingreso_total,medio_pago
+1,2024-06-19,62,Guadalupe Romero,Carlos Paz,19,Manteca 200g,Lácteos y Quesos,1,3251,3251,tarjeta
+1,2024-06-19,62,Guadalupe Romero,Carlos Paz,35,Barrita de Cereal 30g,Snacks y Golosinas,2,4430,8860,tarjeta
+1,2024-06-19,62,Guadalupe Romero,Carlos Paz,92,Crema Dental 90g,Lácteos y Quesos,2,2512,5024,tarjeta
+1,2024-06-19,62,Guadalupe Romero,Carlos Paz,39,Helado Vainilla 1L,Congelados,3,469,1407,tarjeta
+1,2024-06-19,62,Guadalupe Romero,Carlos Paz,57,Servilletas x100,Higiene Personal,2,4520,9040,tarjeta
+59,2024-04-28,62,Guadalupe Romero,Carlos Paz,77,Empanadas Congeladas,Panadería y Repostería,1,4778,4778,tarjeta
+59,2024-04-28,62,Guadalupe Romero,Carlos Paz,99,Esponjas x3,Limpieza,2,2430,4860,tarjeta
+7,2024-05-06,92,Mariana Rodriguez,Alta Gracia,19,Manteca 200g,Lácteos y Quesos,3,3251,9753,efectivo
+110,2024-05-19,92,Mariana Rodriguez,Alta Gracia,62,Stevia 100 sobres,Almacén,1,3848,3848,efectivo
+7,2024-05-06,92,Mariana Rodriguez,Alta Gracia,38,Mermelada de Frutilla 400g,Bebidas,2,1584,3168,efectivo
+7,2024-05-06,92,Mariana Rodriguez,Alta Gracia,11,Café Molido 250g,Almacén,2,2053,4106,efectivo
+7,2024-05-06,92,Mariana Rodriguez,Alta Gracia,60,Chupetín,Snacks y Golosinas,3,4647,13941,efectivo
+110,2024-05-19,92,Mariana Rodriguez,Alta Gracia,40,Helado Chocolate 1L,Snacks y Golosinas,1,1215,1215,efectivo
+25,2024-04-30,13,Ivana Sanchez,Carlos Paz,19,Manteca 200g,Lácteos y Quesos,3,3251,9753,transferencia
+25,2024-04-30,13,Ivana Sanchez,Carlos Paz,34,Turrón 50g,Snacks y Golosinas,3,503,1509,transferencia
+25,2024-04-30,13,Ivana Sanchez,Carlos Paz,82,Aceitunas Negras 200g,Almacén,1,2394,2394,transferencia
+48,2024-01-26,84,Pablo Sanchez,Cordoba,19,Manteca 200g,Lácteos y Quesos,2,3251,6502,qr
+118,2024-02-09,84,Pablo Sanchez,Cordoba,79,Hamburguesas Congeladas x4,Congelados,2,2420,4840,efectivo
+48,2024-01-26,84,Pablo Sanchez,Cordoba,44,Arroz Largo Fino 1kg,Almacén,1,2979,2979,qr
+48,2024-01-26,84,Pablo Sanchez,Cordoba,55,Shampoo 400ml,Higiene Personal,1,1407,1407,qr
+48,2024-01-26,84,Pablo Sanchez,Cordoba,62,Stevia 100 sobres,Almacén,1,3848,3848,qr
+118,2024-02-09,84,Pablo Sanchez,Cordoba,6,Jugo de Naranja 1L,Bebidas,1,4170,4170,efectivo
+94,2024-03-06,41,Elena Rodriguez,Alta Gracia,19,Manteca 200g,Lácteos y Quesos,3,3251,9753,qr
+94,2024-03-06,41,Elena Rodriguez,Alta Gracia,66,Cerveza Negra 1L,Bebidas Alcohólicas,2,1533,3066,qr
+70,2024-02-02,41,Elena Rodriguez,Alta Gracia,59,Chicle Menta,Snacks y Golosinas,2,3612,7224,transferencia
+94,2024-03-06,41,Elena Rodriguez,Alta Gracia,56,Papel Higiénico x4,Higiene Personal,1,2532,2532,qr
+94,2024-03-06,41,Elena Rodriguez,Alta Gracia,22,Medialunas de Manteca,Lácteos y Quesos,3,2069,6207,qr
+12,2024-06-28,96,Rocio Gonzalez,Cordoba,35,Barrita de Cereal 30g,Snacks y Golosinas,2,4430,8860,efectivo
+12,2024-06-28,96,Rocio Gonzalez,Cordoba,2,Pepsi 1.5L,Bebidas,2,4973,9946,efectivo
+12,2024-06-28,96,Rocio Gonzalez,Cordoba,76,Pizza Congelada Muzzarella,Congelados,1,4286,4286,efectivo
+42,2024-04-18,12,Gael Gomez,Alta Gracia,35,Barrita de Cereal 30g,Snacks y Golosinas,3,4430,13290,tarjeta
+42,2024-04-18,12,Gael Gomez,Alta Gracia,92,Crema Dental 90g,Lácteos y Quesos,2,2512,5024,tarjeta
+42,2024-04-18,12,Gael Gomez,Alta Gracia,66,Cerveza Negra 1L,Bebidas Alcohólicas,1,1533,1533,tarjeta
+78,2024-04-29,12,Gael Gomez,Alta Gracia,62,Stevia 100 sobres,Almacén,2,3848,7696,qr
+78,2024-04-29,12,Gael Gomez,Alta Gracia,9,Yerba Mate Suave 1kg,Almacén,3,3878,11634,qr
+42,2024-04-18,12,Gael Gomez,Alta Gracia,30,Maní Salado 200g,Almacén,1,4875,4875,tarjeta
+42,2024-04-18,12,Gael Gomez,Alta Gracia,31,Mix de Frutos Secos 200g,Snacks y Golosinas,1,3409,3409,tarjeta
+78,2024-04-29,12,Gael Gomez,Alta Gracia,25,Galletitas Vainilla,Panadería y Repostería,3,4015,12045,qr
+80,2024-03-25,54,Uma Herrera,Alta Gracia,35,Barrita de Cereal 30g,Snacks y Golosinas,2,4430,8860,efectivo
+80,2024-03-25,54,Uma Herrera,Alta Gracia,55,Shampoo 400ml,Higiene Personal,1,1407,1407,efectivo
+80,2024-03-25,54,Uma Herrera,Alta Gracia,18,Queso Rallado 150g,Lácteos y Quesos,2,3444,6888,efectivo
+80,2024-03-25,54,Uma Herrera,Alta Gracia,22,Medialunas de Manteca,Lácteos y Quesos,3,2069,6207,efectivo
+80,2024-03-25,54,Uma Herrera,Alta Gracia,51,Sal Fina 500g,Almacén,3,1745,5235,efectivo
+113,2024-03-08,98,Camila Castro,Cordoba,35,Barrita de Cereal 30g,Snacks y Golosinas,3,4430,13290,transferencia
+113,2024-03-08,98,Camila Castro,Cordoba,98,Desengrasante 500ml,Limpieza,1,2843,2843,transferencia
+113,2024-03-08,98,Camila Castro,Cordoba,83,Queso Untable 190g,Lácteos y Quesos,3,1830,5490,transferencia
+113,2024-03-08,98,Camila Castro,Cordoba,100,Trapo de Piso,Limpieza,3,4854,14562,transferencia
+113,2024-03-08,98,Camila Castro,Cordoba,26,Alfajor Triple,Panadería y Repostería,1,1001,1001,transferencia
+55,2024-01-04,100,Agustina Lopez,Cordoba,92,Crema Dental 90g,Lácteos y Quesos,3,2512,7536,qr
+87,2024-04-20,100,Agustina Lopez,Cordoba,69,Sidra 750ml,Bebidas Alcohólicas,2,744,1488,qr
+62,2024-05-01,100,Agustina Lopez,Cordoba,60,Chupetín,Snacks y Golosinas,3,4647,13941,transferencia
+87,2024-04-20,100,Agustina Lopez,Cordoba,15,Leche Descremada 1L,Lácteos y Quesos,2,2538,5076,qr
+55,2024-01-04,100,Agustina Lopez,Cordoba,59,Chicle Menta,Snacks y Golosinas,2,3612,7224,qr
+87,2024-04-20,100,Agustina Lopez,Cordoba,24,Galletitas Chocolate,Panadería y Repostería,3,1305,3915,qr
+55,2024-01-04,100,Agustina Lopez,Cordoba,88,Caldo Concentrado Carne,Almacén,1,2570,2570,qr
+87,2024-04-20,100,Agustina Lopez,Cordoba,22,Medialunas de Manteca,Lácteos y Quesos,1,2069,2069,qr
+60,2024-04-04,81,Camila Ruiz,Carlos Paz,92,Crema Dental 90g,Lácteos y Quesos,2,2512,5024,transferencia
+18,2024-06-11,81,Camila Ruiz,Carlos Paz,44,Arroz Largo Fino 1kg,Almacén,2,2979,5958,qr
+18,2024-06-11,81,Camila Ruiz,Carlos Paz,64,Avena Instantánea 250g,Almacén,1,3953,3953,qr
+18,2024-06-11,81,Camila Ruiz,Carlos Paz,89,Caldo Concentrado Verdura,Almacén,2,1003,2006,qr
+60,2024-04-04,81,Camila Ruiz,Carlos Paz,59,Chicle Menta,Snacks y Golosinas,1,3612,3612,transferencia
+60,2024-04-04,81,Camila Ruiz,Carlos Paz,84,Queso Azul 150g,Lácteos y Quesos,1,1645,1645,transferencia
+60,2024-04-04,81,Camila Ruiz,Carlos Paz,93,Cepillo de Dientes,Higiene Personal,3,2142,6426,transferencia
+17,2024-02-17,88,Felipe Castro,Villa Maria,39,Helado Vainilla 1L,Congelados,2,469,938,efectivo
+17,2024-02-17,88,Felipe Castro,Villa Maria,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,1,1868,1868,efectivo
+17,2024-02-17,88,Felipe Castro,Villa Maria,76,Pizza Congelada Muzzarella,Congelados,3,4286,12858,efectivo
+17,2024-02-17,88,Felipe Castro,Villa Maria,81,Aceitunas Verdes 200g,Almacén,3,2520,7560,efectivo
+35,2024-05-30,61,Guadalupe Martinez,Rio Cuarto,39,Helado Vainilla 1L,Congelados,2,469,938,efectivo
+75,2024-05-23,61,Guadalupe Martinez,Rio Cuarto,60,Chupetín,Snacks y Golosinas,2,4647,9294,qr
+35,2024-05-30,61,Guadalupe Martinez,Rio Cuarto,76,Pizza Congelada Muzzarella,Congelados,2,4286,8572,efectivo
+35,2024-05-30,61,Guadalupe Martinez,Rio Cuarto,34,Turrón 50g,Snacks y Golosinas,1,503,503,efectivo
+75,2024-05-23,61,Guadalupe Martinez,Rio Cuarto,34,Turrón 50g,Snacks y Golosinas,3,503,1509,qr
+35,2024-05-30,61,Guadalupe Martinez,Rio Cuarto,82,Aceitunas Negras 200g,Almacén,1,2394,2394,efectivo
+35,2024-05-30,61,Guadalupe Martinez,Rio Cuarto,33,Chocolate con Leche 100g,Lácteos y Quesos,2,1255,2510,efectivo
+75,2024-05-23,61,Guadalupe Martinez,Rio Cuarto,25,Galletitas Vainilla,Panadería y Repostería,1,4015,4015,qr
+30,2024-03-03,93,Gael Rojas,Alta Gracia,57,Servilletas x100,Higiene Personal,2,4520,9040,efectivo
+30,2024-03-03,93,Gael Rojas,Alta Gracia,30,Maní Salado 200g,Almacén,2,4875,9750,efectivo
+32,2024-01-30,31,Felipe Ruiz,Villa Maria,57,Servilletas x100,Higiene Personal,1,4520,4520,efectivo
+32,2024-01-30,31,Felipe Ruiz,Villa Maria,64,Avena Instantánea 250g,Almacén,3,3953,11859,efectivo
+32,2024-01-30,31,Felipe Ruiz,Villa Maria,52,Detergente Líquido 750ml,Limpieza,3,2582,7746,efectivo
+32,2024-01-30,31,Felipe Ruiz,Villa Maria,43,Salsa de Tomate 500g,Almacén,3,887,2661,efectivo
+32,2024-01-30,31,Felipe Ruiz,Villa Maria,72,Ron 700ml,Bebidas Alcohólicas,3,3876,11628,efectivo
+120,2024-04-21,72,Camila Rodriguez,Cordoba,57,Servilletas x100,Higiene Personal,2,4520,9040,tarjeta
+120,2024-04-21,72,Camila Rodriguez,Cordoba,11,Café Molido 250g,Almacén,1,2053,2053,tarjeta
+101,2024-03-28,72,Camila Rodriguez,Cordoba,73,Gin 700ml,Bebidas Alcohólicas,1,1561,1561,efectivo
+120,2024-04-21,72,Camila Rodriguez,Cordoba,34,Turrón 50g,Snacks y Golosinas,3,503,1509,tarjeta
+101,2024-03-28,72,Camila Rodriguez,Cordoba,33,Chocolate con Leche 100g,Lácteos y Quesos,2,1255,2510,efectivo
+101,2024-03-28,72,Camila Rodriguez,Cordoba,43,Salsa de Tomate 500g,Almacén,2,887,1774,efectivo
+84,2024-01-02,72,Camila Rodriguez,Cordoba,6,Jugo de Naranja 1L,Bebidas,1,4170,4170,efectivo
+117,2024-03-14,72,Camila Rodriguez,Cordoba,99,Esponjas x3,Limpieza,3,2430,7290,tarjeta
+120,2024-04-21,72,Camila Rodriguez,Cordoba,78,Verduras Congeladas Mix,Congelados,3,4289,12867,tarjeta
+117,2024-03-14,72,Camila Rodriguez,Cordoba,13,Té Verde 20 saquitos,Almacén,2,2383,4766,tarjeta
+84,2024-01-02,72,Camila Rodriguez,Cordoba,4,Fanta Naranja 1.5L,Bebidas,3,2033,6099,efectivo
+101,2024-03-28,72,Camila Rodriguez,Cordoba,45,Fideos Spaghetti 500g,Almacén,2,745,1490,efectivo
+2,2024-03-17,49,Olivia Gomez,Rio Cuarto,66,Cerveza Negra 1L,Bebidas Alcohólicas,3,1533,4599,qr
+2,2024-03-17,49,Olivia Gomez,Rio Cuarto,79,Hamburguesas Congeladas x4,Congelados,1,2420,2420,qr
+2,2024-03-17,49,Olivia Gomez,Rio Cuarto,44,Arroz Largo Fino 1kg,Almacén,2,2979,5958,qr
+2,2024-03-17,49,Olivia Gomez,Rio Cuarto,64,Avena Instantánea 250g,Almacén,1,3953,3953,qr
+2,2024-03-17,49,Olivia Gomez,Rio Cuarto,48,Porotos Negros 500g,Almacén,1,4462,4462,qr
+29,2024-02-20,49,Olivia Gomez,Rio Cuarto,69,Sidra 750ml,Bebidas Alcohólicas,1,744,744,qr
+26,2024-01-23,49,Olivia Gomez,Rio Cuarto,55,Shampoo 400ml,Higiene Personal,3,1407,4221,efectivo
+81,2024-03-09,49,Olivia Gomez,Rio Cuarto,10,Yerba Mate Intensa 1kg,Almacén,2,4883,9766,transferencia
+26,2024-01-23,49,Olivia Gomez,Rio Cuarto,38,Mermelada de Frutilla 400g,Bebidas,3,1584,4752,efectivo
+29,2024-02-20,49,Olivia Gomez,Rio Cuarto,54,Jabón de Tocador,Limpieza,2,1592,3184,qr
+26,2024-01-23,49,Olivia Gomez,Rio Cuarto,89,Caldo Concentrado Verdura,Almacén,1,1003,1003,efectivo
+26,2024-01-23,49,Olivia Gomez,Rio Cuarto,94,Hilo Dental,Higiene Personal,2,1418,2836,efectivo
+29,2024-02-20,49,Olivia Gomez,Rio Cuarto,75,Licor de Café 700ml,Bebidas Alcohólicas,2,3204,6408,qr
+29,2024-02-20,49,Olivia Gomez,Rio Cuarto,68,Vino Blanco 750ml,Bebidas Alcohólicas,3,2684,8052,qr
+51,2024-02-18,39,Santiago Diaz,Alta Gracia,66,Cerveza Negra 1L,Bebidas Alcohólicas,2,1533,3066,efectivo
+91,2024-02-19,39,Santiago Diaz,Alta Gracia,49,Harina de Trigo 1kg,Almacén,3,2512,7536,efectivo
+51,2024-02-18,39,Santiago Diaz,Alta Gracia,61,Miel Pura 250g,Almacén,3,4982,14946,efectivo
+97,2024-06-16,39,Santiago Diaz,Alta Gracia,15,Leche Descremada 1L,Lácteos y Quesos,3,2538,7614,efectivo
+91,2024-02-19,39,Santiago Diaz,Alta Gracia,98,Desengrasante 500ml,Limpieza,2,2843,5686,efectivo
+91,2024-02-19,39,Santiago Diaz,Alta Gracia,36,Dulce de Leche 400g,Lácteos y Quesos,1,2559,2559,efectivo
+103,2024-03-11,39,Santiago Diaz,Alta Gracia,34,Turrón 50g,Snacks y Golosinas,2,503,1006,efectivo
+51,2024-02-18,39,Santiago Diaz,Alta Gracia,95,Mascarilla Capilar,Higiene Personal,3,1581,4743,efectivo
+97,2024-06-16,39,Santiago Diaz,Alta Gracia,95,Mascarilla Capilar,Higiene Personal,1,1581,1581,efectivo
+103,2024-03-11,39,Santiago Diaz,Alta Gracia,87,Sopa Instantánea Pollo,Almacén,3,1679,5037,efectivo
+51,2024-02-18,39,Santiago Diaz,Alta Gracia,56,Papel Higiénico x4,Higiene Personal,1,2532,2532,efectivo
+51,2024-02-18,39,Santiago Diaz,Alta Gracia,97,Limpiavidrios 500ml,Limpieza,3,872,2616,efectivo
+91,2024-02-19,39,Santiago Diaz,Alta Gracia,99,Esponjas x3,Limpieza,2,2430,4860,efectivo
+103,2024-03-11,39,Santiago Diaz,Alta Gracia,99,Esponjas x3,Limpieza,1,2430,2430,efectivo
+103,2024-03-11,39,Santiago Diaz,Alta Gracia,22,Medialunas de Manteca,Lácteos y Quesos,2,2069,4138,efectivo
+64,2024-03-07,58,Karina Acosta,Rio Cuarto,66,Cerveza Negra 1L,Bebidas Alcohólicas,3,1533,4599,qr
+64,2024-03-07,58,Karina Acosta,Rio Cuarto,47,Garbanzos 500g,Almacén,3,2939,8817,qr
+64,2024-03-07,58,Karina Acosta,Rio Cuarto,5,Agua Mineral 500ml,Bebidas,1,4777,4777,qr
+34,2024-01-13,58,Karina Acosta,Rio Cuarto,95,Mascarilla Capilar,Higiene Personal,1,1581,1581,transferencia
+64,2024-03-07,58,Karina Acosta,Rio Cuarto,71,Vodka 700ml,Bebidas Alcohólicas,3,508,1524,qr
+64,2024-03-07,58,Karina Acosta,Rio Cuarto,58,Caramelos Masticables,Snacks y Golosinas,3,4752,14256,qr
+69,2024-01-06,42,Tomas Flores,Alta Gracia,66,Cerveza Negra 1L,Bebidas Alcohólicas,2,1533,3066,qr
+92,2024-02-09,42,Tomas Flores,Alta Gracia,69,Sidra 750ml,Bebidas Alcohólicas,2,744,1488,transferencia
+69,2024-01-06,42,Tomas Flores,Alta Gracia,49,Harina de Trigo 1kg,Almacén,1,2512,2512,qr
+85,2024-01-23,42,Tomas Flores,Alta Gracia,1,Coca Cola 1.5L,Bebidas,3,2347,7041,transferencia
+73,2024-05-16,42,Tomas Flores,Alta Gracia,81,Aceitunas Verdes 200g,Almacén,3,2520,7560,transferencia
+69,2024-01-06,42,Tomas Flores,Alta Gracia,5,Agua Mineral 500ml,Bebidas,3,4777,14331,qr
+92,2024-02-09,42,Tomas Flores,Alta Gracia,34,Turrón 50g,Snacks y Golosinas,2,503,1006,transferencia
+85,2024-01-23,42,Tomas Flores,Alta Gracia,33,Chocolate con Leche 100g,Lácteos y Quesos,1,1255,1255,transferencia
+69,2024-01-06,42,Tomas Flores,Alta Gracia,90,Toallas Húmedas x50,Higiene Personal,2,2902,5804,qr
+73,2024-05-16,42,Tomas Flores,Alta Gracia,87,Sopa Instantánea Pollo,Almacén,1,1679,1679,transferencia
+85,2024-01-23,42,Tomas Flores,Alta Gracia,53,Lavandina 1L,Limpieza,2,1664,3328,transferencia
+88,2024-06-21,37,Martina Perez,Mendiolaza,66,Cerveza Negra 1L,Bebidas Alcohólicas,2,1533,3066,efectivo
+88,2024-06-21,37,Martina Perez,Mendiolaza,38,Mermelada de Frutilla 400g,Bebidas,2,1584,3168,efectivo
+88,2024-06-21,37,Martina Perez,Mendiolaza,23,Bizcochos Salados,Panadería y Repostería,1,2380,2380,efectivo
+88,2024-06-21,37,Martina Perez,Mendiolaza,51,Sal Fina 500g,Almacén,3,1745,5235,efectivo
+3,2024-01-13,20,Tomas Acosta,Rio Cuarto,79,Hamburguesas Congeladas x4,Congelados,1,2420,2420,tarjeta
+3,2024-01-13,20,Tomas Acosta,Rio Cuarto,44,Arroz Largo Fino 1kg,Almacén,2,2979,5958,tarjeta
+3,2024-01-13,20,Tomas Acosta,Rio Cuarto,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,1,1868,1868,tarjeta
+3,2024-01-13,20,Tomas Acosta,Rio Cuarto,69,Sidra 750ml,Bebidas Alcohólicas,1,744,744,tarjeta
+3,2024-01-13,20,Tomas Acosta,Rio Cuarto,50,Azúcar 1kg,Almacén,3,727,2181,tarjeta
+11,2024-04-10,20,Tomas Acosta,Rio Cuarto,11,Café Molido 250g,Almacén,1,2053,2053,qr
+33,2024-02-13,6,Uma Medina,Villa Maria,79,Hamburguesas Congeladas x4,Congelados,3,2420,7260,efectivo
+13,2024-01-24,6,Uma Medina,Villa Maria,64,Avena Instantánea 250g,Almacén,3,3953,11859,tarjeta
+33,2024-02-13,6,Uma Medina,Villa Maria,62,Stevia 100 sobres,Almacén,1,3848,3848,efectivo
+33,2024-02-13,6,Uma Medina,Villa Maria,41,Aceite de Girasol 1L,Almacén,2,860,1720,efectivo
+13,2024-01-24,6,Uma Medina,Villa Maria,54,Jabón de Tocador,Limpieza,3,1592,4776,tarjeta
+13,2024-01-24,6,Uma Medina,Villa Maria,49,Harina de Trigo 1kg,Almacén,1,2512,2512,tarjeta
+13,2024-01-24,6,Uma Medina,Villa Maria,21,Pan Lactal Integral,Panadería y Repostería,2,272,544,tarjeta
+28,2024-05-20,52,Diego Diaz,Rio Cuarto,44,Arroz Largo Fino 1kg,Almacén,1,2979,2979,qr
+28,2024-05-20,52,Diego Diaz,Rio Cuarto,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,3,1868,5604,qr
+10,2024-05-28,52,Diego Diaz,Rio Cuarto,60,Chupetín,Snacks y Golosinas,3,4647,13941,qr
+10,2024-05-28,52,Diego Diaz,Rio Cuarto,73,Gin 700ml,Bebidas Alcohólicas,1,1561,1561,qr
+10,2024-05-28,52,Diego Diaz,Rio Cuarto,96,Suavizante 1L,Limpieza,2,4920,9840,qr
+28,2024-05-20,52,Diego Diaz,Rio Cuarto,33,Chocolate con Leche 100g,Lácteos y Quesos,1,1255,1255,qr
+28,2024-05-20,52,Diego Diaz,Rio Cuarto,95,Mascarilla Capilar,Higiene Personal,2,1581,3162,qr
+28,2024-05-20,52,Diego Diaz,Rio Cuarto,83,Queso Untable 190g,Lácteos y Quesos,1,1830,1830,qr
+47,2024-05-04,52,Diego Diaz,Rio Cuarto,25,Galletitas Vainilla,Panadería y Repostería,1,4015,4015,transferencia
+66,2024-03-14,69,Felipe Flores,Rio Cuarto,44,Arroz Largo Fino 1kg,Almacén,2,2979,5958,qr
+100,2024-06-08,69,Felipe Flores,Rio Cuarto,10,Yerba Mate Intensa 1kg,Almacén,3,4883,14649,qr
+66,2024-03-14,69,Felipe Flores,Rio Cuarto,11,Café Molido 250g,Almacén,1,2053,2053,qr
+100,2024-06-08,69,Felipe Flores,Rio Cuarto,11,Café Molido 250g,Almacén,2,2053,4106,qr
+100,2024-06-08,69,Felipe Flores,Rio Cuarto,5,Agua Mineral 500ml,Bebidas,2,4777,9554,qr
+100,2024-06-08,69,Felipe Flores,Rio Cuarto,90,Toallas Húmedas x50,Higiene Personal,3,2902,8706,qr
+100,2024-06-08,69,Felipe Flores,Rio Cuarto,3,Sprite 1.5L,Bebidas,1,4964,4964,qr
+79,2024-06-06,57,Julian Acosta,Rio Cuarto,64,Avena Instantánea 250g,Almacén,2,3953,7906,qr
+37,2024-05-17,57,Julian Acosta,Rio Cuarto,11,Café Molido 250g,Almacén,1,2053,2053,qr
+79,2024-06-06,57,Julian Acosta,Rio Cuarto,54,Jabón de Tocador,Limpieza,2,1592,3184,qr
+79,2024-06-06,57,Julian Acosta,Rio Cuarto,24,Galletitas Chocolate,Panadería y Repostería,2,1305,2610,qr
+37,2024-05-17,57,Julian Acosta,Rio Cuarto,67,Vino Tinto Malbec 750ml,Bebidas Alcohólicas,1,4719,4719,qr
+79,2024-06-06,57,Julian Acosta,Rio Cuarto,33,Chocolate con Leche 100g,Lácteos y Quesos,2,1255,2510,qr
+37,2024-05-17,57,Julian Acosta,Rio Cuarto,37,Mermelada de Durazno 400g,Bebidas,2,3196,6392,qr
+22,2024-05-08,64,Julian Alvarez,Villa Maria,48,Porotos Negros 500g,Almacén,2,4462,8924,transferencia
+109,2024-06-04,64,Julian Alvarez,Villa Maria,8,Energética Nitro 500ml,Bebidas,1,4218,4218,transferencia
+109,2024-06-04,64,Julian Alvarez,Villa Maria,87,Sopa Instantánea Pollo,Almacén,1,1679,1679,transferencia
+109,2024-06-04,64,Julian Alvarez,Villa Maria,53,Lavandina 1L,Limpieza,1,1664,1664,transferencia
+38,2024-05-29,56,Bruno Diaz,Rio Cuarto,48,Porotos Negros 500g,Almacén,1,4462,4462,tarjeta
+53,2024-01-25,56,Bruno Diaz,Rio Cuarto,48,Porotos Negros 500g,Almacén,2,4462,8924,tarjeta
+5,2024-06-11,56,Bruno Diaz,Rio Cuarto,38,Mermelada de Frutilla 400g,Bebidas,1,1584,1584,tarjeta
+38,2024-05-29,56,Bruno Diaz,Rio Cuarto,76,Pizza Congelada Muzzarella,Congelados,2,4286,8572,tarjeta
+15,2024-06-27,56,Bruno Diaz,Rio Cuarto,1,Coca Cola 1.5L,Bebidas,1,2347,2347,transferencia
+15,2024-06-27,56,Bruno Diaz,Rio Cuarto,42,Vinagre de Alcohol 500ml,Almacén,1,1195,1195,transferencia
+53,2024-01-25,56,Bruno Diaz,Rio Cuarto,59,Chicle Menta,Snacks y Golosinas,2,3612,7224,tarjeta
+74,2024-04-26,56,Bruno Diaz,Rio Cuarto,67,Vino Tinto Malbec 750ml,Bebidas Alcohólicas,2,4719,9438,efectivo
+38,2024-05-29,56,Bruno Diaz,Rio Cuarto,63,Granola 250g,Almacén,2,4337,8674,tarjeta
+74,2024-04-26,56,Bruno Diaz,Rio Cuarto,63,Granola 250g,Almacén,2,4337,8674,efectivo
+38,2024-05-29,56,Bruno Diaz,Rio Cuarto,90,Toallas Húmedas x50,Higiene Personal,1,2902,2902,tarjeta
+53,2024-01-25,56,Bruno Diaz,Rio Cuarto,85,Jugo en Polvo Naranja,Bebidas,2,1856,3712,tarjeta
+106,2024-03-24,82,Lucas Lopez,Alta Gracia,48,Porotos Negros 500g,Almacén,3,4462,13386,transferencia
+106,2024-03-24,82,Lucas Lopez,Alta Gracia,67,Vino Tinto Malbec 750ml,Bebidas Alcohólicas,3,4719,14157,transferencia
+106,2024-03-24,82,Lucas Lopez,Alta Gracia,27,Alfajor Simple,Panadería y Repostería,3,2502,7506,transferencia
+106,2024-03-24,82,Lucas Lopez,Alta Gracia,25,Galletitas Vainilla,Panadería y Repostería,2,4015,8030,transferencia
+106,2024-03-24,82,Lucas Lopez,Alta Gracia,20,Pan Lactal Blanco,Panadería y Repostería,3,1571,4713,transferencia
+108,2024-03-25,9,Yamila Molina,Carlos Paz,48,Porotos Negros 500g,Almacén,2,4462,8924,tarjeta
+27,2024-02-25,9,Yamila Molina,Carlos Paz,96,Suavizante 1L,Limpieza,2,4920,9840,transferencia
+108,2024-03-25,9,Yamila Molina,Carlos Paz,8,Energética Nitro 500ml,Bebidas,1,4218,4218,tarjeta
+27,2024-02-25,9,Yamila Molina,Carlos Paz,98,Desengrasante 500ml,Limpieza,1,2843,2843,transferencia
+27,2024-02-25,9,Yamila Molina,Carlos Paz,82,Aceitunas Negras 200g,Almacén,2,2394,4788,transferencia
+108,2024-03-25,9,Yamila Molina,Carlos Paz,6,Jugo de Naranja 1L,Bebidas,3,4170,12510,tarjeta
+19,2024-06-11,80,Gael Ruiz,Mendiolaza,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,1,1868,1868,efectivo
+19,2024-06-11,80,Gael Ruiz,Mendiolaza,12,Té Negro 20 saquitos,Almacén,2,570,1140,efectivo
+19,2024-06-11,80,Gael Ruiz,Mendiolaza,61,Miel Pura 250g,Almacén,3,4982,14946,efectivo
+39,2024-03-05,5,Agustina Flores,Cordoba,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,2,1868,3736,efectivo
+39,2024-03-05,5,Agustina Flores,Cordoba,55,Shampoo 400ml,Higiene Personal,1,1407,1407,efectivo
+36,2024-06-25,5,Agustina Flores,Cordoba,41,Aceite de Girasol 1L,Almacén,3,860,2580,tarjeta
+39,2024-03-05,5,Agustina Flores,Cordoba,42,Vinagre de Alcohol 500ml,Almacén,3,1195,3585,efectivo
+39,2024-03-05,5,Agustina Flores,Cordoba,23,Bizcochos Salados,Panadería y Repostería,2,2380,4760,efectivo
+36,2024-06-25,5,Agustina Flores,Cordoba,82,Aceitunas Negras 200g,Almacén,2,2394,4788,tarjeta
+39,2024-03-05,5,Agustina Flores,Cordoba,68,Vino Blanco 750ml,Bebidas Alcohólicas,2,2684,5368,efectivo
+52,2024-05-10,5,Agustina Flores,Cordoba,52,Detergente Líquido 750ml,Limpieza,2,2582,5164,tarjeta
+36,2024-06-25,5,Agustina Flores,Cordoba,27,Alfajor Simple,Panadería y Repostería,3,2502,7506,tarjeta
+49,2024-06-02,5,Agustina Flores,Cordoba,87,Sopa Instantánea Pollo,Almacén,3,1679,5037,efectivo
+52,2024-05-10,5,Agustina Flores,Cordoba,3,Sprite 1.5L,Bebidas,2,4964,9928,tarjeta
+52,2024-05-10,5,Agustina Flores,Cordoba,17,Queso Cremoso 500g,Lácteos y Quesos,2,4834,9668,tarjeta
+41,2024-03-08,29,Diego Fernandez,Alta Gracia,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,3,1868,5604,tarjeta
+54,2024-03-26,1,Mariana Lopez,Carlos Paz,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,1,1868,1868,tarjeta
+105,2024-02-06,1,Mariana Lopez,Carlos Paz,50,Azúcar 1kg,Almacén,2,727,1454,transferencia
+105,2024-02-06,1,Mariana Lopez,Carlos Paz,10,Yerba Mate Intensa 1kg,Almacén,2,4883,9766,transferencia
+105,2024-02-06,1,Mariana Lopez,Carlos Paz,9,Yerba Mate Suave 1kg,Almacén,2,3878,7756,transferencia
+105,2024-02-06,1,Mariana Lopez,Carlos Paz,37,Mermelada de Durazno 400g,Bebidas,1,3196,3196,transferencia
+54,2024-03-26,1,Mariana Lopez,Carlos Paz,18,Queso Rallado 150g,Lácteos y Quesos,3,3444,10332,tarjeta
+105,2024-02-06,1,Mariana Lopez,Carlos Paz,93,Cepillo de Dientes,Higiene Personal,2,2142,4284,transferencia
+86,2024-01-10,40,Felipe Diaz,Rio Cuarto,29,Papas Fritas Onduladas 100g,Snacks y Golosinas,3,1868,5604,efectivo
+71,2024-06-02,40,Felipe Diaz,Rio Cuarto,14,Leche Entera 1L,Lácteos y Quesos,3,1723,5169,qr
+86,2024-01-10,40,Felipe Diaz,Rio Cuarto,16,Yogur Natural 200g,Lácteos y Quesos,2,4613,9226,efectivo
+86,2024-01-10,40,Felipe Diaz,Rio Cuarto,73,Gin 700ml,Bebidas Alcohólicas,2,1561,3122,efectivo
+86,2024-01-10,40,Felipe Diaz,Rio Cuarto,46,Lentejas Secas 500g,Almacén,2,3036,6072,efectivo
+44,2024-02-21,21,Elena Rodriguez,Alta Gracia,69,Sidra 750ml,Bebidas Alcohólicas,3,744,2232,efectivo
+44,2024-02-21,21,Elena Rodriguez,Alta Gracia,91,Desodorante Aerosol,Higiene Personal,1,4690,4690,efectivo
+44,2024-02-21,21,Elena Rodriguez,Alta Gracia,95,Mascarilla Capilar,Higiene Personal,3,1581,4743,efectivo
+44,2024-02-21,21,Elena Rodriguez,Alta Gracia,68,Vino Blanco 750ml,Bebidas Alcohólicas,3,2684,8052,efectivo
+44,2024-02-21,21,Elena Rodriguez,Alta Gracia,88,Caldo Concentrado Carne,Almacén,2,2570,5140,efectivo
+98,2024-01-12,43,Lucas Perez,Mendiolaza,50,Azúcar 1kg,Almacén,3,727,2181,transferencia
+98,2024-01-12,43,Lucas Perez,Mendiolaza,59,Chicle Menta,Snacks y Golosinas,1,3612,3612,transferencia
+98,2024-01-12,43,Lucas Perez,Mendiolaza,25,Galletitas Vainilla,Panadería y Repostería,1,4015,4015,transferencia
+4,2024-02-27,36,Martina Molina,Mendiolaza,55,Shampoo 400ml,Higiene Personal,3,1407,4221,transferencia
+4,2024-02-27,36,Martina Molina,Mendiolaza,77,Empanadas Congeladas,Panadería y Repostería,3,4778,14334,transferencia
+4,2024-02-27,36,Martina Molina,Mendiolaza,14,Leche Entera 1L,Lácteos y Quesos,3,1723,5169,transferencia
+4,2024-02-27,36,Martina Molina,Mendiolaza,62,Stevia 100 sobres,Almacén,2,3848,7696,transferencia
+4,2024-02-27,36,Martina Molina,Mendiolaza,10,Yerba Mate Intensa 1kg,Almacén,1,4883,4883,transferencia
+45,2024-01-19,15,Tomas Ruiz,Cordoba,55,Shampoo 400ml,Higiene Personal,3,1407,4221,efectivo
+45,2024-01-19,15,Tomas Ruiz,Cordoba,28,Papas Fritas Clásicas 100g,Snacks y Golosinas,1,936,936,efectivo
+56,2024-06-14,15,Tomas Ruiz,Cordoba,89,Caldo Concentrado Verdura,Almacén,2,1003,2006,qr
+56,2024-06-14,15,Tomas Ruiz,Cordoba,24,Galletitas Chocolate,Panadería y Repostería,1,1305,1305,qr
+40,2024-05-13,15,Tomas Ruiz,Cordoba,63,Granola 250g,Almacén,3,4337,13011,efectivo
+45,2024-01-19,15,Tomas Ruiz,Cordoba,31,Mix de Frutos Secos 200g,Snacks y Golosinas,3,3409,10227,efectivo
+61,2024-06-01,27,Tomas Castro,Rio Cuarto,55,Shampoo 400ml,Higiene Personal,1,1407,1407,efectivo
+68,2024-06-28,27,Tomas Castro,Rio Cuarto,55,Shampoo 400ml,Higiene Personal,2,1407,2814,qr
+61,2024-06-01,27,Tomas Castro,Rio Cuarto,47,Garbanzos 500g,Almacén,2,2939,5878,efectivo
+68,2024-06-28,27,Tomas Castro,Rio Cuarto,9,Yerba Mate Suave 1kg,Almacén,2,3878,7756,qr
+61,2024-06-01,27,Tomas Castro,Rio Cuarto,73,Gin 700ml,Bebidas Alcohólicas,2,1561,3122,efectivo
+68,2024-06-28,27,Tomas Castro,Rio Cuarto,73,Gin 700ml,Bebidas Alcohólicas,2,1561,3122,qr
+61,2024-06-01,27,Tomas Castro,Rio Cuarto,98,Desengrasante 500ml,Limpieza,2,2843,5686,efectivo
+68,2024-06-28,27,Tomas Castro,Rio Cuarto,72,Ron 700ml,Bebidas Alcohólicas,2,3876,7752,qr
+68,2024-06-28,27,Tomas Castro,Rio Cuarto,18,Queso Rallado 150g,Lácteos y Quesos,2,3444,6888,qr
+63,2024-06-19,25,Karina Castro,Rio Cuarto,55,Shampoo 400ml,Higiene Personal,3,1407,4221,tarjeta
+116,2024-03-18,25,Karina Castro,Rio Cuarto,72,Ron 700ml,Bebidas Alcohólicas,2,3876,7752,qr
+63,2024-06-19,25,Karina Castro,Rio Cuarto,46,Lentejas Secas 500g,Almacén,3,3036,9108,tarjeta
+63,2024-06-19,25,Karina Castro,Rio Cuarto,100,Trapo de Piso,Limpieza,1,4854,4854,tarjeta
+63,2024-06-19,25,Karina Castro,Rio Cuarto,40,Helado Chocolate 1L,Snacks y Golosinas,3,1215,3645,tarjeta
+63,2024-06-19,25,Karina Castro,Rio Cuarto,78,Verduras Congeladas Mix,Congelados,2,4289,8578,tarjeta
+93,2024-01-29,90,Guadalupe Ruiz,Rio Cuarto,55,Shampoo 400ml,Higiene Personal,1,1407,1407,efectivo
+93,2024-01-29,90,Guadalupe Ruiz,Rio Cuarto,27,Alfajor Simple,Panadería y Repostería,2,2502,5004,efectivo
+93,2024-01-29,90,Guadalupe Ruiz,Rio Cuarto,90,Toallas Húmedas x50,Higiene Personal,2,2902,5804,efectivo
+93,2024-01-29,90,Guadalupe Ruiz,Rio Cuarto,78,Verduras Congeladas Mix,Congelados,3,4289,12867,efectivo
+90,2024-01-08,46,Agustina Martinez,Alta Gracia,62,Stevia 100 sobres,Almacén,3,3848,11544,qr
+90,2024-01-08,46,Agustina Martinez,Alta Gracia,75,Licor de Café 700ml,Bebidas Alcohólicas,2,3204,6408,qr
+46,2024-03-25,46,Agustina Martinez,Alta Gracia,52,Detergente Líquido 750ml,Limpieza,2,2582,5164,tarjeta
+90,2024-01-08,46,Agustina Martinez,Alta Gracia,18,Queso Rallado 150g,Lácteos y Quesos,2,3444,6888,qr
+16,2024-04-12,2,Nicolas Rojas,Carlos Paz,10,Yerba Mate Intensa 1kg,Almacén,2,4883,9766,efectivo
+16,2024-04-12,2,Nicolas Rojas,Carlos Paz,12,Té Negro 20 saquitos,Almacén,1,570,570,efectivo
+89,2024-01-18,17,Pablo Gomez,Villa Maria,10,Yerba Mate Intensa 1kg,Almacén,3,4883,14649,tarjeta
+89,2024-01-18,17,Pablo Gomez,Villa Maria,56,Papel Higiénico x4,Higiene Personal,2,2532,5064,tarjeta
+89,2024-01-18,17,Pablo Gomez,Villa Maria,13,Té Verde 20 saquitos,Almacén,3,2383,7149,tarjeta
+89,2024-01-18,17,Pablo Gomez,Villa Maria,53,Lavandina 1L,Limpieza,2,1664,3328,tarjeta
+6,2024-05-05,91,Uma Sanchez,Mendiolaza,16,Yogur Natural 200g,Lácteos y Quesos,1,4613,4613,transferencia
+6,2024-05-05,91,Uma Sanchez,Mendiolaza,41,Aceite de Girasol 1L,Almacén,2,860,1720,transferencia
+6,2024-05-05,91,Uma Sanchez,Mendiolaza,47,Garbanzos 500g,Almacén,2,2939,5878,transferencia
+83,2024-05-28,91,Uma Sanchez,Mendiolaza,85,Jugo en Polvo Naranja,Bebidas,1,1856,1856,efectivo
+83,2024-05-28,91,Uma Sanchez,Mendiolaza,22,Medialunas de Manteca,Lácteos y Quesos,1,2069,2069,efectivo
+83,2024-05-28,91,Uma Sanchez,Mendiolaza,13,Té Verde 20 saquitos,Almacén,1,2383,2383,efectivo
+58,2024-02-04,48,Rocio Alvarez,Cordoba,47,Garbanzos 500g,Almacén,3,2939,8817,transferencia
+111,2024-02-12,48,Rocio Alvarez,Cordoba,91,Desodorante Aerosol,Higiene Personal,3,4690,14070,efectivo
+58,2024-02-04,48,Rocio Alvarez,Cordoba,24,Galletitas Chocolate,Panadería y Repostería,1,1305,1305,transferencia
+111,2024-02-12,48,Rocio Alvarez,Cordoba,75,Licor de Café 700ml,Bebidas Alcohólicas,2,3204,6408,efectivo
+58,2024-02-04,48,Rocio Alvarez,Cordoba,68,Vino Blanco 750ml,Bebidas Alcohólicas,2,2684,5368,transferencia
+58,2024-02-04,48,Rocio Alvarez,Cordoba,6,Jugo de Naranja 1L,Bebidas,3,4170,12510,transferencia
+8,2024-01-06,66,Tomas Herrera,Villa Maria,12,Té Negro 20 saquitos,Almacén,2,570,1140,transferencia
+67,2024-03-21,66,Tomas Herrera,Villa Maria,59,Chicle Menta,Snacks y Golosinas,1,3612,3612,efectivo
+67,2024-03-21,66,Tomas Herrera,Villa Maria,88,Caldo Concentrado Carne,Almacén,3,2570,7710,efectivo
+112,2024-01-19,28,Rocio Silva,Cordoba,12,Té Negro 20 saquitos,Almacén,2,570,1140,tarjeta
+112,2024-01-19,28,Rocio Silva,Cordoba,99,Esponjas x3,Limpieza,2,2430,4860,tarjeta
+112,2024-01-19,28,Rocio Silva,Cordoba,51,Sal Fina 500g,Almacén,2,1745,3490,tarjeta
+9,2024-01-20,86,Diego Torres,Cordoba,91,Desodorante Aerosol,Higiene Personal,1,4690,4690,efectivo
+9,2024-01-20,86,Diego Torres,Cordoba,28,Papas Fritas Clásicas 100g,Snacks y Golosinas,2,936,1872,efectivo
+9,2024-01-20,86,Diego Torres,Cordoba,9,Yerba Mate Suave 1kg,Almacén,1,3878,3878,efectivo
+104,2024-06-17,86,Diego Torres,Cordoba,1,Coca Cola 1.5L,Bebidas,3,2347,7041,qr
+50,2024-01-09,8,Bruno Castro,Carlos Paz,91,Desodorante Aerosol,Higiene Personal,2,4690,9380,transferencia
+50,2024-01-09,8,Bruno Castro,Carlos Paz,8,Energética Nitro 500ml,Bebidas,2,4218,8436,transferencia
+50,2024-01-09,8,Bruno Castro,Carlos Paz,5,Agua Mineral 500ml,Bebidas,3,4777,14331,transferencia
+50,2024-01-09,8,Bruno Castro,Carlos Paz,24,Galletitas Chocolate,Panadería y Repostería,1,1305,1305,transferencia
+50,2024-01-09,8,Bruno Castro,Carlos Paz,80,Helado de Frutilla 1L,Congelados,2,1981,3962,transferencia
+57,2024-01-10,34,Bruno Castro,Villa Maria,91,Desodorante Aerosol,Higiene Personal,2,4690,9380,efectivo
+57,2024-01-10,34,Bruno Castro,Villa Maria,8,Energética Nitro 500ml,Bebidas,1,4218,4218,efectivo
+57,2024-01-10,34,Bruno Castro,Villa Maria,95,Mascarilla Capilar,Higiene Personal,2,1581,3162,efectivo
+82,2024-01-25,19,Uma Silva,Mendiolaza,91,Desodorante Aerosol,Higiene Personal,2,4690,9380,tarjeta
+31,2024-05-22,19,Uma Silva,Mendiolaza,68,Vino Blanco 750ml,Bebidas Alcohólicas,2,2684,5368,tarjeta
+31,2024-05-22,19,Uma Silva,Mendiolaza,63,Granola 250g,Almacén,3,4337,13011,tarjeta
+82,2024-01-25,19,Uma Silva,Mendiolaza,87,Sopa Instantánea Pollo,Almacén,2,1679,3358,tarjeta
+102,2024-03-29,18,Ivana Torres,Carlos Paz,9,Yerba Mate Suave 1kg,Almacén,3,3878,11634,efectivo
+102,2024-03-29,18,Ivana Torres,Carlos Paz,49,Harina de Trigo 1kg,Almacén,3,2512,7536,efectivo
+102,2024-03-29,18,Ivana Torres,Carlos Paz,83,Queso Untable 190g,Lácteos y Quesos,2,1830,3660,efectivo
+102,2024-03-29,18,Ivana Torres,Carlos Paz,90,Toallas Húmedas x50,Higiene Personal,2,2902,5804,efectivo
+102,2024-03-29,18,Ivana Torres,Carlos Paz,93,Cepillo de Dientes,Higiene Personal,1,2142,2142,efectivo
+119,2024-02-07,51,Agustina Gomez,Rio Cuarto,9,Yerba Mate Suave 1kg,Almacén,3,3878,11634,qr
+99,2024-03-13,51,Agustina Gomez,Rio Cuarto,21,Pan Lactal Integral,Panadería y Repostería,3,272,816,transferencia
+99,2024-03-13,51,Agustina Gomez,Rio Cuarto,8,Energética Nitro 500ml,Bebidas,2,4218,8436,transferencia
+99,2024-03-13,51,Agustina Gomez,Rio Cuarto,1,Coca Cola 1.5L,Bebidas,3,2347,7041,transferencia
+119,2024-02-07,51,Agustina Gomez,Rio Cuarto,61,Miel Pura 250g,Almacén,2,4982,9964,qr
+119,2024-02-07,51,Agustina Gomez,Rio Cuarto,75,Licor de Café 700ml,Bebidas Alcohólicas,3,3204,9612,qr
+119,2024-02-07,51,Agustina Gomez,Rio Cuarto,58,Caramelos Masticables,Snacks y Golosinas,2,4752,9504,qr
+95,2024-02-25,26,Camila Sanchez,Alta Gracia,73,Gin 700ml,Bebidas Alcohólicas,3,1561,4683,qr
+95,2024-02-25,26,Camila Sanchez,Alta Gracia,61,Miel Pura 250g,Almacén,3,4982,14946,qr
+72,2024-02-17,26,Camila Sanchez,Alta Gracia,59,Chicle Menta,Snacks y Golosinas,2,3612,7224,qr
+72,2024-02-17,26,Camila Sanchez,Alta Gracia,25,Galletitas Vainilla,Panadería y Repostería,3,4015,12045,qr
+20,2024-01-13,75,Santiago Castro,Rio Cuarto,76,Pizza Congelada Muzzarella,Congelados,1,4286,4286,tarjeta
+76,2024-05-15,75,Santiago Castro,Rio Cuarto,30,Maní Salado 200g,Almacén,3,4875,14625,tarjeta
+76,2024-05-15,75,Santiago Castro,Rio Cuarto,25,Galletitas Vainilla,Panadería y Repostería,3,4015,12045,tarjeta
+76,2024-05-15,75,Santiago Castro,Rio Cuarto,3,Sprite 1.5L,Bebidas,2,4964,9928,tarjeta
+76,2024-05-15,75,Santiago Castro,Rio Cuarto,86,Jugo en Polvo Limón,Bebidas,2,4090,8180,tarjeta
+43,2024-02-18,23,Helena Fernandez,Rio Cuarto,54,Jabón de Tocador,Limpieza,1,1592,1592,efectivo
+43,2024-02-18,23,Helena Fernandez,Rio Cuarto,15,Leche Descremada 1L,Lácteos y Quesos,3,2538,7614,efectivo
+14,2024-04-18,67,Ivana Romero,Alta Gracia,8,Energética Nitro 500ml,Bebidas,3,4218,12654,qr
+21,2024-06-19,10,Karina Acosta,Cordoba,8,Energética Nitro 500ml,Bebidas,2,4218,8436,transferencia
+21,2024-06-19,10,Karina Acosta,Cordoba,15,Leche Descremada 1L,Lácteos y Quesos,3,2538,7614,transferencia
+21,2024-06-19,10,Karina Acosta,Cordoba,59,Chicle Menta,Snacks y Golosinas,3,3612,10836,transferencia
+21,2024-06-19,10,Karina Acosta,Cordoba,98,Desengrasante 500ml,Limpieza,1,2843,2843,transferencia
+21,2024-06-19,10,Karina Acosta,Cordoba,36,Dulce de Leche 400g,Lácteos y Quesos,1,2559,2559,transferencia
+96,2024-02-23,83,Franco Gomez,Rio Cuarto,8,Energética Nitro 500ml,Bebidas,3,4218,12654,tarjeta
+96,2024-02-23,83,Franco Gomez,Rio Cuarto,15,Leche Descremada 1L,Lácteos y Quesos,3,2538,7614,tarjeta
+96,2024-02-23,83,Franco Gomez,Rio Cuarto,78,Verduras Congeladas Mix,Congelados,3,4289,12867,tarjeta
+96,2024-02-23,83,Franco Gomez,Rio Cuarto,53,Lavandina 1L,Limpieza,1,1664,1664,tarjeta
+23,2024-05-16,78,Emilia Alvarez,Villa Maria,42,Vinagre de Alcohol 500ml,Almacén,1,1195,1195,transferencia
+23,2024-05-16,78,Emilia Alvarez,Villa Maria,5,Agua Mineral 500ml,Bebidas,2,4777,9554,transferencia
+77,2024-05-26,55,Olivia Ruiz,Mendiolaza,89,Caldo Concentrado Verdura,Almacén,1,1003,1003,tarjeta
+24,2024-06-14,55,Olivia Ruiz,Mendiolaza,24,Galletitas Chocolate,Panadería y Repostería,3,1305,3915,tarjeta
+24,2024-06-14,55,Olivia Ruiz,Mendiolaza,67,Vino Tinto Malbec 750ml,Bebidas Alcohólicas,1,4719,4719,tarjeta
+24,2024-06-14,55,Olivia Ruiz,Mendiolaza,23,Bizcochos Salados,Panadería y Repostería,2,2380,4760,tarjeta
+77,2024-05-26,55,Olivia Ruiz,Mendiolaza,83,Queso Untable 190g,Lácteos y Quesos,3,1830,5490,tarjeta
+77,2024-05-26,55,Olivia Ruiz,Mendiolaza,46,Lentejas Secas 500g,Almacén,1,3036,3036,tarjeta
+77,2024-05-26,55,Olivia Ruiz,Mendiolaza,22,Medialunas de Manteca,Lácteos y Quesos,2,2069,4138,tarjeta
+115,2024-02-16,3,Hernan Martinez,Rio Cuarto,67,Vino Tinto Malbec 750ml,Bebidas Alcohólicas,1,4719,4719,transferencia
+115,2024-02-16,3,Hernan Martinez,Rio Cuarto,97,Limpiavidrios 500ml,Limpieza,2,872,1744,transferencia
+115,2024-02-16,3,Hernan Martinez,Rio Cuarto,84,Queso Azul 150g,Lácteos y Quesos,2,1645,3290,transferencia
+115,2024-02-16,3,Hernan Martinez,Rio Cuarto,20,Pan Lactal Blanco,Panadería y Repostería,2,1571,3142,transferencia
+115,2024-02-16,3,Hernan Martinez,Rio Cuarto,26,Alfajor Triple,Panadería y Repostería,3,1001,3003,transferencia
+114,2024-05-05,16,Felipe Alvarez,Rio Cuarto,68,Vino Blanco 750ml,Bebidas Alcohólicas,3,2684,8052,qr
+114,2024-05-05,16,Felipe Alvarez,Rio Cuarto,32,Chocolate Amargo 100g,Snacks y Golosinas,2,2234,4468,qr
+65,2024-04-30,30,Ivana Medina,Alta Gracia,18,Queso Rallado 150g,Lácteos y Quesos,2,3444,6888,qr
+107,2024-05-21,14,Gael Martinez,Carlos Paz,32,Chocolate Amargo 100g,Snacks y Golosinas,2,2234,4468,efectivo
