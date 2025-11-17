@@ -68,12 +68,42 @@ Las 7 prácticas de Agile son:
 
 * **Canicas del estado de ánimo:** Son una herramienta sencilla que te ayudan a medir el estado de ánimo de un grupo de personas, como los compañeros de clase, muebros de la familia, un grupo de voluntarios o un equipo empresarial.
 
-* Muro de trabajo
+* **Muro de trabajo:** Es una forma sencilla y visual de seguir el proceso de trabajo de un equipo.Asi, todos pueden ver el estado de todas las tareas, incluso las que estpan realizando otras. 
 
-* Reuniones breves de progreso
+* **Reuniones breves de progreso:** Las reuniones breves de progeso son reuniones de estado que generalmente se realñozan a diario. Todos responden brevemente tres preguntas, *¿Qué has completado desde la última reunión de progreso?*, *¿Qué completarás para la próxima reunión de progreso?* y *¿Cuáles son los obstáculos que te impiden completar con éxito tus tareas?*
 
-* Retrospectiva
+* **Retrospectiva:** Una reunión retrospectiva es un medio para que un equipo revise su desempeño y piense e identifique formas en las que podría hacer las cosas mejor, se responden a tres preguntas, *¿Qué salió bien?*, *¿Qué no salió bien?* y *¿Qué nos desconcierta?*
 
-* Muestra
+* **Muestra:** Una muestra es una reunión donde el equipo presenta el trabajo realizado a las partes interesadas y otros involucrados, y obtiene comentarios para avanzar.
 
-* Shuhari
+* **Shuhari:** Shuhari es un concepto japonés que significa proteger-desapegarse-abandonar. En Shu se aprende y se te vuelves disciplinado en seguir las reglas, procesos y procedimientos.En Ha, se utiliza la experiencia y se comienza a innovar las reglas o formas de hacer las cosas despegándote de la forma actual y haciendo ajustes. Y el Ri se aleja de lo que es una forma normal de hacer algo y crear una nueva forma de hacerlo y emnseñarlo a otros tu propio enfoque 
+
+# ¿Qué son los patrones de Agile?
+
+Los patrones de Agile son marcos estructurados que brindan soluciones reutilizables a los desafíos comunes que enfrentan los equipos durante su recorrido en Agile
+
+## Los tres patrones de Agile
+
+* **Estrategia de Agile y patrón de gestión:** Los líderes empresariales pueden utilizar la estrategia de Agile y el patrón de gestión para desarrollar la dirección que seguirá la empresa. Por ejemplo, una empresa tecnológica podría centrar su atención en convertirse en el principal proveedor de servicios en la nube.
+
+* **Patrón de operaciones de Agile:** Una empresa puede utilizar el patrón de operaciones de Agile para el trabajo diario continuo que implica procesos únicos y repetibles. Un ejemplo de un proceso repetible es enviar la nómina a los empleados cada semana.
+
+* **Patrón del programa de Agile:** Los líderes de la empresa pueden utilizar el patrón del programa de Agile para trabajos de proyectos que tienen un inicio y un final definidos. Un ejemplo de trabajo de proyecto es implementar una nueva herramienta para que la utilicen los empleados.
+
+## Cinco pasos de los patrones
+1. **Movilizar**
+2. **Entender**
+3. **Explorar y elaborar estrategias**
+4. **Construir, probar e implementar**
+5. **Gestionar y evolucionar**
+
+# Agile e IA
+Los equipos de Agile pueden utilizar IA para:
+
+* **Automatizar tareas rutinarias:** la IA puede gestionar actividades repetitivas como ingreso de datos, pruebas y generación de informes, liberando a los miembros del equipo para que se concentren en tareas más complejas y creativas.
+
+
+* **Mejorar la toma de decisiones:** al analizar datos históricos, la IA puede predecir qué acciones o elecciones probablemente sean las más eficaces. Esto ayuda a los equipos a tomar decisiones informadas sobre qué priorizar y cómo utilizar mejor sus recursos para lograr sus objetivos.
+
+
+* **Mejorar el análisis predictivo:** al analizar el rendimiento pasado y las condiciones actuales, la IA puede predecir el calendario del proyecto y las necesidades de recursos, lo que ayuda a los equipos a establecer objetivos realistas y gestionar su trabajo de manera más eficaz.
