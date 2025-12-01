@@ -1,0 +1,13 @@
+The file data/productos_limpio.csv is intended to contain cleaned product data. Since you have not provided specific content for this CSV file, I will create a sample structure for it. Here is the content for the file:
+
+product_id,product_name,category,price,stock
+1,Product A,Category 1,10.99,100
+2,Product B,Category 2,15.49,50
+3,Product C,Category 1,7.99,200
+4,Product D,Category 3,22.00,30
+5,Product E,Category 2,5.49,150
+6,Product F,Category 1,12.99,80
+7,Product G,Category 3,19.99,20
+8,Product H,Category 2,9.99,60
+9,Product I,Category 1,14.49,90
+10,Product J,Category 3,25.00,10
