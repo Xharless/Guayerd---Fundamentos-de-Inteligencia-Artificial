@@ -1,0 +1,101 @@
+id_producto,nombre_producto,categoria,precio_unitario
+1,Coca Cola 1.5L,Bebidas,2347
+2,Pepsi 1.5L,Bebidas,4973
+3,Sprite 1.5L,Bebidas,4964
+4,Fanta Naranja 1.5L,Bebidas,2033
+5,Agua Mineral 500ml,Bebidas,4777
+6,Jugo de Naranja 1L,Bebidas,4170
+7,Jugo de Manzana 1L,Bebidas,3269
+8,Energética Nitro 500ml,Bebidas,4218
+9,Yerba Mate Suave 1kg,Almacén,3878
+10,Yerba Mate Intensa 1kg,Almacén,4883
+11,Café Molido 250g,Almacén,2053
+12,Té Negro 20 saquitos,Almacén,570
+13,Té Verde 20 saquitos,Almacén,2383
+14,Leche Entera 1L,Lácteos y Quesos,1723
+15,Leche Descremada 1L,Lácteos y Quesos,2538
+16,Yogur Natural 200g,Lácteos y Quesos,4613
+17,Queso Cremoso 500g,Lácteos y Quesos,4834
+18,Queso Rallado 150g,Lácteos y Quesos,3444
+19,Manteca 200g,Lácteos y Quesos,3251
+20,Pan Lactal Blanco,Panadería y Repostería,1571
+21,Pan Lactal Integral,Panadería y Repostería,272
+22,Medialunas de Manteca,Lácteos y Quesos,2069
+23,Bizcochos Salados,Panadería y Repostería,2380
+24,Galletitas Chocolate,Panadería y Repostería,1305
+25,Galletitas Vainilla,Panadería y Repostería,4015
+26,Alfajor Triple,Panadería y Repostería,1001
+27,Alfajor Simple,Panadería y Repostería,2502
+28,Papas Fritas Clásicas 100g,Snacks y Golosinas,936
+29,Papas Fritas Onduladas 100g,Snacks y Golosinas,1868
+30,Maní Salado 200g,Almacén,4875
+31,Mix de Frutos Secos 200g,Snacks y Golosinas,3409
+32,Chocolate Amargo 100g,Snacks y Golosinas,2234
+33,Chocolate con Leche 100g,Lácteos y Quesos,1255
+34,Turrón 50g,Snacks y Golosinas,503
+35,Barrita de Cereal 30g,Snacks y Golosinas,4430
+36,Dulce de Leche 400g,Lácteos y Quesos,2559
+37,Mermelada de Durazno 400g,Bebidas,3196
+38,Mermelada de Frutilla 400g,Bebidas,1584
+39,Helado Vainilla 1L,Congelados,469
+40,Helado Chocolate 1L,Snacks y Golosinas,1215
+41,Aceite de Girasol 1L,Almacén,860
+42,Vinagre de Alcohol 500ml,Almacén,1195
+43,Salsa de Tomate 500g,Almacén,887
+44,Arroz Largo Fino 1kg,Almacén,2979
+45,Fideos Spaghetti 500g,Almacén,745
+46,Lentejas Secas 500g,Almacén,3036
+47,Garbanzos 500g,Almacén,2939
+48,Porotos Negros 500g,Almacén,4462
+49,Harina de Trigo 1kg,Almacén,2512
+50,Azúcar 1kg,Almacén,727
+51,Sal Fina 500g,Almacén,1745
+52,Detergente Líquido 750ml,Limpieza,2582
+53,Lavandina 1L,Limpieza,1664
+54,Jabón de Tocador,Limpieza,1592
+55,Shampoo 400ml,Higiene Personal,1407
+56,Papel Higiénico x4,Higiene Personal,2532
+57,Servilletas x100,Higiene Personal,4520
+58,Caramelos Masticables,Snacks y Golosinas,4752
+59,Chicle Menta,Snacks y Golosinas,3612
+60,Chupetín,Snacks y Golosinas,4647
+61,Miel Pura 250g,Almacén,4982
+62,Stevia 100 sobres,Almacén,3848
+63,Granola 250g,Almacén,4337
+64,Avena Instantánea 250g,Almacén,3953
+65,Cerveza Rubia 1L,Bebidas Alcohólicas,2423
+66,Cerveza Negra 1L,Bebidas Alcohólicas,1533
+67,Vino Tinto Malbec 750ml,Bebidas Alcohólicas,4719
+68,Vino Blanco 750ml,Bebidas Alcohólicas,2684
+69,Sidra 750ml,Bebidas Alcohólicas,744
+70,Fernet 750ml,Bebidas Alcohólicas,4061
+71,Vodka 700ml,Bebidas Alcohólicas,508
+72,Ron 700ml,Bebidas Alcohólicas,3876
+73,Gin 700ml,Bebidas Alcohólicas,1561
+74,Whisky 750ml,Bebidas Alcohólicas,2953
+75,Licor de Café 700ml,Bebidas Alcohólicas,3204
+76,Pizza Congelada Muzzarella,Congelados,4286
+77,Empanadas Congeladas,Panadería y Repostería,4778
+78,Verduras Congeladas Mix,Congelados,4289
+79,Hamburguesas Congeladas x4,Congelados,2420
+80,Helado de Frutilla 1L,Congelados,1981
+81,Aceitunas Verdes 200g,Almacén,2520
+82,Aceitunas Negras 200g,Almacén,2394
+83,Queso Untable 190g,Lácteos y Quesos,1830
+84,Queso Azul 150g,Lácteos y Quesos,1645
+85,Jugo en Polvo Naranja,Bebidas,1856
+86,Jugo en Polvo Limón,Bebidas,4090
+87,Sopa Instantánea Pollo,Almacén,1679
+88,Caldo Concentrado Carne,Almacén,2570
+89,Caldo Concentrado Verdura,Almacén,1003
+90,Toallas Húmedas x50,Higiene Personal,2902
+91,Desodorante Aerosol,Higiene Personal,4690
+92,Crema Dental 90g,Lácteos y Quesos,2512
+93,Cepillo de Dientes,Higiene Personal,2142
+94,Hilo Dental,Higiene Personal,1418
+95,Mascarilla Capilar,Higiene Personal,1581
+96,Suavizante 1L,Limpieza,4920
+97,Limpiavidrios 500ml,Limpieza,872
+98,Desengrasante 500ml,Limpieza,2843
+99,Esponjas x3,Limpieza,2430
+100,Trapo de Piso,Limpieza,4854
