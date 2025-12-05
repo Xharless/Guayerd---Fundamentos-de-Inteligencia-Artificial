@@ -1,0 +1,5 @@
+Accuracy: 0.85
+Precision: 0.80
+Recall: 0.75
+F1 Score: 0.77
+RMSE: 1.25
