@@ -1,0 +1,101 @@
+id_cliente,nombre_cliente,ciudad,email
+1,Mariana Lopez,Carlos Paz,mariana.lopez@mail.com
+2,Nicolas Rojas,Carlos Paz,nicolas.rojas@mail.com
+3,Hernan Martinez,Rio Cuarto,hernan.martinez@mail.com
+4,Uma Martinez,Carlos Paz,uma.martinez@mail.com
+5,Agustina Flores,Cordoba,agustina.flores@mail.com
+6,Uma Medina,Villa Maria,uma.medina@mail.com
+7,Emilia Castro,Rio Cuarto,emilia.castro@mail.com
+8,Bruno Castro,Carlos Paz,bruno.castro@mail.com
+9,Yamila Molina,Carlos Paz,yamila.molina@mail.com
+10,Karina Acosta,Cordoba,karina.acosta@mail.com
+11,Helena Sanchez,Villa Maria,helena.sanchez@mail.com
+12,Gael Gomez,Alta Gracia,gael.gomez@mail.com
+13,Ivana Sanchez,Carlos Paz,ivana.sanchez@mail.com
+14,Gael Martinez,Carlos Paz,gael.martinez@mail.com
+15,Tomas Ruiz,Cordoba,tomas.ruiz@mail.com
+16,Felipe Alvarez,Rio Cuarto,felipe.alvarez@mail.com
+17,Pablo Gomez,Villa Maria,pablo.gomez@mail.com
+18,Ivana Torres,Carlos Paz,ivana.torres@mail.com
+19,Uma Silva,Mendiolaza,uma.silva@mail.com
+20,Tomas Acosta,Rio Cuarto,tomas.acosta@mail.com
+21,Elena Rodriguez,Alta Gracia,elena.rodriguez@mail.com
+22,Franco Rodriguez,Alta Gracia,franco.rodriguez@mail.com
+23,Helena Fernandez,Rio Cuarto,helena.fernandez@mail.com
+24,Nicolas Silva,Villa Maria,nicolas.silva@mail.com
+25,Karina Castro,Rio Cuarto,karina.castro@mail.com
+26,Camila Sanchez,Alta Gracia,camila.sanchez@mail.com
+27,Tomas Castro,Rio Cuarto,tomas.castro@mail.com
+28,Rocio Silva,Cordoba,rocio.silva@mail.com
+29,Diego Fernandez,Alta Gracia,diego.fernandez@mail.com
+30,Ivana Medina,Alta Gracia,ivana.medina@mail.com
+31,Felipe Ruiz,Villa Maria,felipe.ruiz@mail.com
+32,Martina Alvarez,Mendiolaza,martina.alvarez@mail.com
+33,Franco Acosta,Rio Cuarto,franco.acosta@mail.com
+34,Bruno Castro,Villa Maria,bruno.castro2@mail.com
+35,Yamila Lopez,Mendiolaza,yamila.lopez@mail.com
+36,Martina Molina,Mendiolaza,martina.molina@mail.com
+37,Martina Perez,Mendiolaza,martina.perez@mail.com
+38,Franco Herrera,Alta Gracia,franco.herrera@mail.com
+39,Santiago Diaz,Alta Gracia,santiago.diaz@mail.com
+40,Felipe Diaz,Rio Cuarto,felipe.diaz@mail.com
+41,Elena Rodriguez,Alta Gracia,elena.rodriguez2@mail.com
+42,Tomas Flores,Alta Gracia,tomas.flores@mail.com
+43,Lucas Perez,Mendiolaza,lucas.perez@mail.com
+44,Camila Romero,Carlos Paz,camila.romero@mail.com
+45,Olivia Castro,Rio Cuarto,olivia.castro@mail.com
+46,Agustina Martinez,Alta Gracia,agustina.martinez@mail.com
+47,Franco Silva,Alta Gracia,franco.silva@mail.com
+48,Rocio Alvarez,Cordoba,rocio.alvarez@mail.com
+49,Olivia Gomez,Rio Cuarto,olivia.gomez@mail.com
+50,Lucas Diaz,Carlos Paz,lucas.diaz@mail.com
+51,Agustina Gomez,Rio Cuarto,agustina.gomez@mail.com
+52,Diego Diaz,Rio Cuarto,diego.diaz@mail.com
+53,Emilia Rojas,Mendiolaza,emilia.rojas@mail.com
+54,Uma Herrera,Alta Gracia,uma.herrera@mail.com
+55,Olivia Ruiz,Mendiolaza,olivia.ruiz@mail.com
+56,Bruno Diaz,Rio Cuarto,bruno.diaz@mail.com
+57,Julian Acosta,Rio Cuarto,julian.acosta@mail.com
+58,Karina Acosta,Rio Cuarto,karina.acosta2@mail.com
+59,Emilia Ruiz,Villa Maria,emilia.ruiz@mail.com
+60,Uma Gonzalez,Alta Gracia,uma.gonzalez@mail.com
+61,Guadalupe Martinez,Rio Cuarto,guadalupe.martinez@mail.com
+62,Guadalupe Romero,Carlos Paz,guadalupe.romero@mail.com
+63,Pablo Medina,Cordoba,pablo.medina@mail.com
+64,Julian Alvarez,Villa Maria,julian.alvarez@mail.com
+65,Tomas Perez,Alta Gracia,tomas.perez@mail.com
+66,Tomas Herrera,Villa Maria,tomas.herrera@mail.com
+67,Ivana Romero,Alta Gracia,ivana.romero@mail.com
+68,Uma Torres,Villa Maria,uma.torres@mail.com
+69,Felipe Flores,Rio Cuarto,felipe.flores@mail.com
+70,Julian Diaz,Carlos Paz,julian.diaz@mail.com
+71,Valentina Alvarez,Villa Maria,valentina.alvarez@mail.com
+72,Camila Rodriguez,Cordoba,camila.rodriguez@mail.com
+73,Yamila Diaz,Alta Gracia,yamila.diaz@mail.com
+74,Zoe Flores,Carlos Paz,zoe.flores@mail.com
+75,Santiago Castro,Rio Cuarto,santiago.castro@mail.com
+76,Pablo Perez,Mendiolaza,pablo.perez@mail.com
+77,Bruno Alvarez,Villa Maria,bruno.alvarez@mail.com
+78,Emilia Alvarez,Villa Maria,emilia.alvarez@mail.com
+79,Olivia Perez,Carlos Paz,olivia.perez@mail.com
+80,Gael Ruiz,Mendiolaza,gael.ruiz@mail.com
+81,Camila Ruiz,Carlos Paz,camila.ruiz@mail.com
+82,Lucas Lopez,Alta Gracia,lucas.lopez@mail.com
+83,Franco Gomez,Rio Cuarto,franco.gomez@mail.com
+84,Pablo Sanchez,Cordoba,pablo.sanchez@mail.com
+85,Agustina Martinez,Mendiolaza,agustina.martinez2@mail.com
+86,Diego Torres,Cordoba,diego.torres@mail.com
+87,Bautista Lopez,Alta Gracia,bautista.lopez@mail.com
+88,Felipe Castro,Villa Maria,felipe.castro@mail.com
+89,Karina Martinez,Rio Cuarto,karina.martinez@mail.com
+90,Guadalupe Ruiz,Rio Cuarto,guadalupe.ruiz@mail.com
+91,Uma Sanchez,Mendiolaza,uma.sanchez@mail.com
+92,Mariana Rodriguez,Alta Gracia,mariana.rodriguez@mail.com
+93,Gael Rojas,Alta Gracia,gael.rojas@mail.com
+94,Elena Sanchez,Mendiolaza,elena.sanchez@mail.com
+95,Olivia Perez,Rio Cuarto,olivia.perez2@mail.com
+96,Rocio Gonzalez,Cordoba,rocio.gonzalez@mail.com
+97,Uma Alvarez,Cordoba,uma.alvarez@mail.com
+98,Camila Castro,Cordoba,camila.castro@mail.com
+99,Bruno Molina,Villa Maria,bruno.molina@mail.com
+100,Agustina Lopez,Cordoba,agustina.lopez@mail.com

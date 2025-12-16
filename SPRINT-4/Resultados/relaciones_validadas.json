@@ -1,0 +1,32 @@
+[
+  {
+    "Relacion":"FACT_VENTAS \u2192 DIM_CLIENTES",
+    "Cardinalidad":"N:1",
+    "FK":"id_cliente",
+    "PK":"id_cliente",
+    "Registros_FK":67,
+    "Registros_PK":100,
+    "Validos":67,
+    "Estado":"\u2713 VALIDA"
+  },
+  {
+    "Relacion":"FACT_VENTAS \u2192 DIM_PRODUCTOS",
+    "Cardinalidad":"N:1",
+    "FK":"id_producto",
+    "PK":"id_producto",
+    "Registros_FK":65,
+    "Registros_PK":100,
+    "Validos":65,
+    "Estado":"\u2713 VALIDA"
+  },
+  {
+    "Relacion":"FACT_VENTAS \u2192 DIM_TIEMPO",
+    "Cardinalidad":"N:1",
+    "FK":"fecha",
+    "PK":"fecha",
+    "Registros_FK":93,
+    "Registros_PK":93,
+    "Validos":93,
+    "Estado":"\u2713 VALIDA"
+  }
+]
