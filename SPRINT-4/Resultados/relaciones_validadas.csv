@@ -1,4 +1,0 @@
-Relacion,Cardinalidad,FK,PK,Registros_FK,Registros_PK,Validos,Estado
-FACT_VENTAS → DIM_CLIENTES,N:1,id_cliente,id_cliente,67,100,67,✓ VALIDA
-FACT_VENTAS → DIM_PRODUCTOS,N:1,id_producto,id_producto,65,100,65,✓ VALIDA
-FACT_VENTAS → DIM_TIEMPO,N:1,fecha,fecha,93,93,93,✓ VALIDA
